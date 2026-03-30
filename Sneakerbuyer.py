@@ -1,7 +1,7 @@
 import webbrowser
 import serpapi
 
-API_KEY = "ccf1efcd1b9e927eb37752d516a6705b843060bc43d2ce259d2b15320a77d714"
+API_KEY = "Api_Key"
 
 ALLOWED_SITES = ["goat.com", "nike.com", "champssports.com", "footlocker.com", "stockx.com"]
 
